@@ -1,4 +1,6 @@
 import os
+#
+#
 def retirement():
     while(True):
         try:
